@@ -1,4 +1,4 @@
-Deployed Link (https://vercel.com/akrisht2805/greeting-react-app/436U2ouZGmFrjPMzjtwiqq34Gzc9)
+Deployed Link (https://greeting-react-app-as00yqsvi-akrisht2805.vercel.app/)
 
 
 
